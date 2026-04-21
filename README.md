@@ -1,7 +1,9 @@
-# Tugas Proyek Kelompok
+# TEST MERGE KELOMPOK
 
-### 1. Muhammad Arya Alqadi
-test doang
+---
+### TOPIK A
+[Hapus ini dan isi teks tes pertama]
 
-### 2. Muzakki Abrar
-konci mobil
+---
+### TOPIK B
+[Hapus ini dan isi teks tes kedua]
